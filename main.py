@@ -28,3 +28,4 @@ width = 4
 area = length*width 
 print(f"The result is {area}")
 
+print(f“If the length of the rectangle is 2, and width is 4, then the area is 8”)
